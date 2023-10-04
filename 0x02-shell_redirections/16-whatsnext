@@ -1,0 +1,2 @@
+#!/bin/bash
+kgrep -A 3 "root" k/etc/passwd
